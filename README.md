@@ -4,7 +4,7 @@ Todotab is a simple tool to organise everything.
 
 # Beta Version
 
-`Beta version will be released on Saturday, july 30, 2022`
+[Beta Version](https://beta-todotab.netlify.app/)
 
 # Live version
 
