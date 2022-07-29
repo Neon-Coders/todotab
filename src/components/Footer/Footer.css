@@ -1,0 +1,14 @@
+.footer {
+   position: absolute;
+   bottom: 0;
+}
+
+.footer__text {
+   color: #808080;
+}
+
+.footer__link {
+   margin-left: 5px;
+   text-decoration: none;
+   color: #299d4e;
+}

@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.App__banner {
+  position: absolute;
+  background-color: #299d4e;
+  padding: 0.5rem;
+  width: 10%;
+  text-align: center;
+  top: 0;
+  right: 0;
+  border-bottom-left-radius: 1rem;
+}
+
+@media (min-width: 800px) {
+  .App__banner {
+    width: 5%;
+  }
+}

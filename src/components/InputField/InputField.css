@@ -1,0 +1,30 @@
+.input {
+   display: flex;
+   width: 90%;
+   position: relative;
+   align-items: center;
+   margin-top: 1.5rem;
+}
+
+.input__box {
+   width: 100%;
+   padding: 1.5em 1em;
+   border-radius: 8px;
+   border: none;
+   transition: 0.2s;
+}
+
+.input__box:hover {
+   border-color: #646cff;
+}
+
+.input__box:focus {
+   outline: none;
+   box-shadow: 0 0 10px 1000px rgba(49, 48, 48, 0.5);
+}
+
+@media (min-width: 800px) {
+   .input {
+      width: 50%;
+   }
+}

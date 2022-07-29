@@ -1,0 +1,55 @@
+.todo {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 70.5%;
+   border-radius: 5px;
+   padding: 20px;
+   margin-top: 2rem;
+   background-color: #299d4e;
+   /* TODO: Add background image in future version  */
+}
+
+.todo__text {
+   flex: 1;
+   /* padding: 5px; */
+   font-size: 15px;
+}
+
+.todo__text__done {
+   color: #242424;
+}
+
+.todo__text:focus {
+   outline: none;
+}
+
+.icon {
+   margin-right: 5px;
+   cursor: pointer;
+   font-size: 1.1rem;
+}
+
+.edit__todo {
+   flex: 1;
+   background-color: #299d4e;
+   border: none;
+}
+
+.edit__todo:focus {
+   outline: none;
+}
+
+@media (min-width: 800px) {
+   .todo {
+      width: 35.5%;
+   }
+
+   .todo__text {
+      font-size: 20px;
+   }
+   
+   .icon {
+      margin-right: 10px;
+   }
+}
