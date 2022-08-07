@@ -1,5 +1,7 @@
 # You can generate a gitignore file for your specific project at https://www.gitignore.io
 
+./dist
+
 ### Node ###
 # Logs
 logs
