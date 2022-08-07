@@ -2,6 +2,10 @@
 
 Todotab is a simple tool to organise everything.
 
+<div>
+   <img src="./src/assets/screenshot.png"
+</div>
+
 # Live version
 
 [Live Version](https://todotab.vercel.app/)
