@@ -19,7 +19,6 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      <div className="App__banner">Beta</div>
       <Header title="TodoTab" />
       <InputField todo={todo} setTodo={setTodo} handleAdd={handleAdd} />
       <TodoList todos={todos} setTodos={setTodos} />
