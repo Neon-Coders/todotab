@@ -2,13 +2,9 @@
 
 Todotab is a simple tool to organise everything.
 
-# Beta Version
-
-[Beta Version](https://beta-todotab.netlify.app/)
-
 # Live version
 
-`Stable version will be released on Saturday, August 6, 2022`
+[Live Version](https://todotab.vercel.app/)
 
 ## Feedback and Bugs
 
